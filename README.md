@@ -7,6 +7,6 @@ This work was done as part of a postgraduate course that I credited during Sprin
 
 1) Read the paper (Paper.pdf) for more understanding
 2) The directory 'toi' has datasets crawled from the Times of India website
-3) Maintain the directory structure of the repo and run admfinal.py (look at comments in the code for better understanding of output format, code sections etc.)
+3) Maintain the directory structure of the repo and run admfinal.py (look at comments in the code for better understanding of output format, code sections etc.
 4) test.py is a short code we used while figuring out how to compute cosine_similarity scores for all pairs from a set of documents
 5) Results are in our project report (Report.pdf)
